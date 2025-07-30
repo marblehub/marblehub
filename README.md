@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marblehub
-- 👀 I’m interested in becoming a better data scientist and contibuting to the global data solutions
-- 🌱 I’m currently exploring PV systems modelling
+- 👀 I’m interested in data science/technology and contibuting to global data solutions
+- 🌱 I’m currently exploring data analysis and modeling techniques w.r.t solar PV
 - 💞️ I’m looking to collaborate on ML/DL/AI and physical/numerical modelling techniques
-- 📫 How to reach me: send email to: goodfriend.whyte@gmail.com
+- 📫 How to reach me; send email to: goodfriend.whyte@gmail.com
 
 <!---
 marblehub/marblehub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
